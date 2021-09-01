@@ -71,16 +71,6 @@
   letter-spacing: 3px;
   text-transform: uppercase;
 }
-.section-2 h5{
-  font-family: Open Sans;
-  font-style: normal;
-  font-weight: normal;
-  font-size: 18px;
-  line-height: 22px;
-  /* or 122% */
-
-  text-align: justify;
-}
 
 .custom-carousel{
     margin-bottom: 15%;
@@ -152,7 +142,28 @@
   letter-spacing: 3px;
   text-transform: uppercase;
 }
+.section-3 h5{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+  /* or 122% */
 
+  text-align: justify;
+}
+.accrodion-header{
+  background: transparent !important; 
+}
+.accordion-title{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  text-align: center;
+  letter-spacing: 2px;
+}
 /* section 4 */
 .section-4{
   background-image: url(./assets/requirements.png);
