@@ -375,7 +375,58 @@ line-height: 4vh;
   z-index: -6;
 }
 
+.section-6 h3{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 24px;
+  line-height: 28px;
+  /* identical to box height */
 
+  letter-spacing: 2px;
+}
+.section-6 h1{
+  font-family: Arial;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 65px;
+  line-height: 75px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+}
+/* .section-6 p{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 18px;
+  line-height: 22px;
+} */
+.section-6 h5{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
+.section-6 .copyrights{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: normal;
+  font-size: 14px;
+  line-height: 19px;
+}
+.section-6 .policy{
+  font-family: Open Sans;
+  font-style: normal;
+  font-weight: bold;
+  font-size: 12px;
+  line-height: 16px;
+  text-align: right;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+}
 
 @media screen and (max-width: 300px) {
     .section-1 h1{
