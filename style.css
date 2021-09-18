@@ -41,6 +41,12 @@
     line-height: 22px;
   }
 
+
+
+.header-scroll-toggle:hover{
+  animation: scrollDown 1.2s infinite;
+}
+
   /* Section 2 */
 .section-2{
     background-image: url(./assets/the-games-bg.jpg);
@@ -131,6 +137,12 @@
   /* identical to box height */
 
   letter-spacing: 2px;
+}
+
+.section-3 .indicators li{
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  border-radius: 100vh;
 }
 
 .section-3 h1{
